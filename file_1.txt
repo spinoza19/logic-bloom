@@ -1,4 +1,0 @@
-# logic-bloom
-Commit 2
-Date: 2023-06-20T02:04:09Z
-Add core module

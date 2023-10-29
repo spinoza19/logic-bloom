@@ -1,0 +1,4 @@
+# logic-bloom
+Commit 3
+Date: 2023-10-29T00:14:18Z
+Fix edge case
