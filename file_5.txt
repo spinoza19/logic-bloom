@@ -1,4 +1,0 @@
-# logic-bloom
-Commit 6
-Date: 2025-02-21T17:05:13Z
-Add unit tests
